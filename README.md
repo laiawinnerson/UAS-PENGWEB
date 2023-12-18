@@ -1,6 +1,6 @@
-Nama : Winnerson Laia
-NIM : 121140121
-Kelas Pengweb : RB
+####Nama : Winnerson Laia
+####NIM : 121140121
+####Kelas Pengweb : RB
 
 # UAS-PENGWEB
 Pada uas pengweb kali ini, saya membuat sebuah website yang dimana orang dapat saling membagikan, melihat foto-foto indah dari berbagai tempat. Postingan disertai dengan link gmaps sehingga pengguna lain dapat mengetahui lokasi foto diambil jika ingin mengunjungi tempatnya. Pengguna tak perlu login untuk melihat isi dari database. Jika ingin memposting foto ke website maka pengguna harus membuat akun atau login jika sudah punya akun. 
